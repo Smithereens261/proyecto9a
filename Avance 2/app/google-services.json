@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "942878284327",
+    "project_id": "compraventacasas-7eebe",
+    "storage_bucket": "compraventacasas-7eebe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942878284327:android:292458b4dfea815b71cc02",
+        "android_client_info": {
+          "package_name": "com.example.proyecto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCICGe6srrwkOimCGy96JicOi-dasSbKsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
